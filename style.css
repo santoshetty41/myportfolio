@@ -572,6 +572,9 @@ transition: all 0.5s;
         background-color: var(--primary);
         border-radius: .4rem;
     }
+    nav ul a:hover::after {
+    width: 0%;
+}
 
     .header_text {
         margin-top: 60%;
