@@ -538,7 +538,7 @@ transition: all 0.5s;
     }
 
     .header {
-        background-image: url(/images/phone-background.png);
+        background-image: url(images/phone-background.png);
         background-size: cover;
         /* background-size: contain; */
         background-repeat: no-repeat;
